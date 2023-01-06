@@ -1,2 +1,3 @@
 # papel-pedra-tesoura
- back simplificado do jogo Pedra-Papel-Tesoura
+Back simplificado do jogo Pedra-Papel-Tesoura.
+O projeto em tela apresentará somente a feitura do backend.
